@@ -1,0 +1,33 @@
+_repo: J.-S.-Le-Fanu-s-Ghostly-Tales-Volume-5_12592
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Le Fanu, Joseph Sheridan
+    aliases:
+    - LeFanu, J. S. (Joseph Sheridan)
+    - Fanu, Joseph Sheridan Le
+    - Fanu, J. Sheridan Le
+    birthdate: 1814
+    deathdate: 1873
+    gutenberg_agent_id: '272'
+    url: http://www.gutenberg.org/2009/agents/272
+    wikipedia: http://en.wikipedia.org/wiki/Sheridan_Le_Fanu
+description: ''
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12592'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Ghost stories'
+- GITenberg
+tableOfContents: 'Laura Silver Bell -- Wicked Captain Walshawe, of Wauling -- The
+  child that went with the fairies -- Stories of Lough Guir: The magician earl. Moll
+  Rial''s adventure. The banshee. The governess''s dream. The earl''s hall -- The
+  vision of Tom Chuff -- Dickon the devil.'
+title: J. S. Le Fanu's Ghostly Tales, Volume 5
+url: http://www.gutenberg.org/ebooks/12592
